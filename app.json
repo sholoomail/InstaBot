@@ -1,5 +1,5 @@
 {
-    "name": "Instagram-Bot",
+    "name": "InstaBot",
     "description": "Telegram bot to manage your Instagram account.",
     "keywords": [
       "telegram",
@@ -8,7 +8,7 @@
       "download",
       "bot"
     ],
-    "repository": "https://github.com/subinps/Instagram-Bot",
+    "repository": "https://github.com/sholoomail/InstaBot",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
